@@ -6,7 +6,7 @@ You can listen to a public or private channel, group, and even a personal chat u
 
 - Python >= 3.7
 - datetime
-- panda==0.3.1
+- pandas==0.3.1
 - [pygsheets](https://pygsheets.readthedocs.io/en/stable/)==2.0.6
 - [Telethon](https://github.com/LonamiWebs/Telethon) @ https://github.com/LonamiWebs/Telethon/archive/v1.zip
 
