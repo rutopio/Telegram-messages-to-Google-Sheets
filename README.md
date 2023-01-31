@@ -14,7 +14,7 @@ You can listen to a public or private channel, group, and even a personal chat u
 
 ## Telegram Settings
 
-1. Visit to https://my.telegram.org/ and login to your Telegram account with the phone number of the developer account to use.
+1. Visit https://my.telegram.org/ and login to your Telegram account with the phone number of the developer account to use.
 2. Click `API development tools` to get the `App api_id` and `App api_hash`.
 3. Get channel or chat ID via different methods:
    - Copy the invite link (if it exists, public channel normally)
@@ -40,7 +40,7 @@ with client:
 
 ## Google API Settings
 
-1. Visit to [Google API Console](https://console.developers.google.com/) and create a new project.
+1. Visit [Google API Console](https://console.developers.google.com/) and create a new project.
 2. In this new project, click `APIs & Services > +ENABLE APIS AND SERVICES`
 
 ![](google_api.png)
