@@ -1,7 +1,5 @@
 # Telegram-messages-to-Google-Sheets
 
-Listen to telegram messages and backup them to Google Sheets via Python.
-
 You can listen to a public or private channel, group, and even a personal chat using this method **without** any bots or administrator permission.
 
 # Requirement
@@ -10,7 +8,7 @@ You can listen to a public or private channel, group, and even a personal chat u
 - datetime
 - panda==0.3.1
 - pygsheets==2.0.6
-- ![Telethon](https://github.com/LonamiWebs/Telethon) @ https://github.com/LonamiWebs/Telethon/archive/v1.zip
+- [Telethon](https://github.com/LonamiWebs/Telethon) @ https://github.com/LonamiWebs/Telethon/archive/v1.zip
 
 # Before Start
 
