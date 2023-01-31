@@ -67,4 +67,4 @@ with client:
 
 - Run it on a 24/7 machine or VPS.
 - To listen the chat, run `listen.py`
-- To crawl the history chat, run `crawl-history.py`. Check [here](https://docs.telethon.dev/en/stable/modules/client.html?highlight=iter_messages#telethon.client.messages.MessageMethods.iter_messages) to find for the detail of `iter_messages()` function.
+- To crawl the history chat, run `crawl-history.py`. Check [here](https://docs.telethon.dev/en/stable/modules/client.html?highlight=iter_messages#telethon.client.messages.MessageMethods.iter_messages) to find more detail of `iter_messages()` function.
