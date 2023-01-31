@@ -17,7 +17,7 @@ You can listen to a public or private channel, group, and even a personal chat u
 1. Visit https://my.telegram.org/ and login to your Telegram account with the phone number of the developer account to use.
 2. Click `API development tools` to get the `App api_id` and `App api_hash`.
 3. Get channel or chat ID via different methods:
-   - Copy the invite link (if it exists, public channel normally)
+   - Copy the invite link (if it exists, public channel normally).
    - Open `https://web.telegram.org/` and select your chat room, the website might like `https://web.telegram.org/z/#-123456789`, copy the number after `/#` (include the negative symbol). In this case, it is `-123456789`.
    - Run the code (ref: https://docs.telethon.dev/en/stable/basic/quick-start.html), it will print all the dialogs/conversations that you are part of.
 
@@ -41,7 +41,7 @@ with client:
 ## Google API Settings
 
 1. Visit [Google API Console](https://console.developers.google.com/) and create a new project.
-2. In this new project, click `APIs & Services > +ENABLE APIS AND SERVICES`
+2. In this new project, click `APIs & Services > +ENABLE APIS AND SERVICES`.
 
 ![](google_api.png)
 
@@ -58,8 +58,8 @@ with client:
 1. Create a new Google Sheets.
 2. Click the `Share` or `Send` button in the upper right corner.
 3. Invite the Service Account Email we created above as an editor.
-4. Name the Sheet. For example, `chats`
-5. The first row (column name) is `Time | Username | User Id | Message Length | Message`
+4. Name the Sheet. For example, `chats`.
+5. The first row (column name) is `Time | Username | User Id | Message Length | Message`. You can create the column data filters later.
 
 ![](col_name.png)
 
